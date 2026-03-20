@@ -1,0 +1,762 @@
+{
+  "summary": {
+    "num_samples": 94,
+    "rouge1": 0.071,
+    "rouge2": 0.0128,
+    "rougeL": 0.0635
+  },
+  "samples": [
+    {
+      "id": "tkuST4Ku37s_4",
+      "ref": "cook the meat in the pan",
+      "gen": "eliminate the potatoes from the pot and put them on a plate and garnish with chopped celery and a little salt and pepper to serve garnish with chopped parsley and parsley leaves and sprinkle with some olive oil and serve with some bread crumbs and some bread crumbs and serve with some chopped green onion and some parsley leaves and some cheese on top of the plate and top with some sour cream and some cheese on top and top with some bread crumbs and some chopped green onions",
+      "rouge1": 0.0421,
+      "rouge2": 0.0,
+      "rougeL": 0.0421
+    },
+    {
+      "id": "tkuST4Ku37s_5",
+      "ref": "fry an egg in the pan",
+      "gen": "eliminate the skin of the lamb and remove it from the pan and place it in the oven for 400 degrees for 30 minutes or until it turns golden brown on both sides. Remove from the oven and let it cool for 15 minutes or until the lamb is brown on both sides and golden brown on both sides and sides again on both sides and flipping twice until golden brown on both sides and golden brown on both sides and flip again and flip again and flip again and flip again and flip again and flip",
+      "rouge1": 0.0583,
+      "rouge2": 0.0396,
+      "rougeL": 0.0388
+    },
+    {
+      "id": "tkuST4Ku37s_6",
+      "ref": "put the ingredients in the bowl",
+      "gen": "seal the noodles and add the flour and stir until the mixture is combined and the noodles are coated in flour and ready to serve hot sauce over the noodles in a bowl and garnish with chopped green onions and parmesan cheese on top of the noodles and serve with sour cream and tomato sauce on top of the noodles and garnish with salt and pepper on top of the noodles and serve with sour cream and tomato sauce on the top of the noodles and garnish with sour cream and tomato sauce on",
+      "rouge1": 0.08,
+      "rouge2": 0.0,
+      "rougeL": 0.08
+    },
+    {
+      "id": "sv8jRCmi3Ro_0",
+      "ref": "cut tomatoes and place them in a bowl",
+      "gen": "op the garlic and add to the pan of hot oil and cook for a few minutes until the garlic is translucent and turns golden brown on both sides of the pan and turns translucent on both sides of the pan. flip the pan over and add saran wrap and stir for 15 seconds until the garlic turns translucent and turns golden brown on both sides of the pan and turns translucent on both sides of the pan and turns translucent on both sides of the pan and turns translucent on both sides of the pan and turns",
+      "rouge1": 0.0377,
+      "rouge2": 0.0,
+      "rougeL": 0.0377
+    },
+    {
+      "id": "sv8jRCmi3Ro_1",
+      "ref": "spread the tomatoes on a baking sheet and add oil and salt",
+      "gen": "in a bowl pour flour baking powder salt baking soda and pepper and mix them together and whisk everything together until everything is combined and smooth.           add the flour mixture and mix it well to form a ball and roll it out to about 1 inch thick and shape it into a ball and put it on a baking sheet and bake it for 15 minutes until golden brown on both sides and edges and then brown on both sides and then crisp on both sides on both sides",
+      "rouge1": 0.1782,
+      "rouge2": 0.0808,
+      "rougeL": 0.1386
+    },
+    {
+      "id": "sv8jRCmi3Ro_2",
+      "ref": "add bulgur to a separate baking sheet",
+      "gen": "nead the dough with flour and water and add the dough to a bowl and mix it well with hand kneading kneading hand and hand-crack the dough to form a ball and seal the dough with a dough wrapper and allow it to come together in a rolling pin or a rolling pin and knead it to make a ball and allow it to roll around a ball of dough for about 8 minutes on each side and about 1 hour on each side until it is smooth and knead",
+      "rouge1": 0.0612,
+      "rouge2": 0.0208,
+      "rougeL": 0.0612
+    },
+    {
+      "id": "sv8jRCmi3Ro_3",
+      "ref": "roast both baking sheets in the oven",
+      "gen": "nead the dough and roll into a ball and roll into a circle about 1 inch thick and roll into a circle about 1 inch thick and cut into rings about 1 inch long and 1 inch thick and roll into a circle about 1 inch thick and cut into rings about 1 inch long and cut into rings about 1 inch long and cut into rings about 1 inch long and cut into rings about 1 inch long and cut into rings about 1 inch long and cut into rings about 1 inch long and cut into rings",
+      "rouge1": 0.0189,
+      "rouge2": 0.0,
+      "rougeL": 0.0189
+    },
+    {
+      "id": "sv8jRCmi3Ro_4",
+      "ref": "slice a red onion",
+      "gen": "alice is a little bit of butter and minced garlic and finely chopped green onions in a bowl and mix well to combine the ingredients well.\n\ndrain and rinse the ingredients and then add the salt and pepper and stir again to combine the ingredients well. season with salt and pepper and stir again to combine the ingredients well. serve with salt and pepper and serve with the soup garnish with the chopped green onions and garnish with the lettuce and bread crumbs and cheese and serve with the chopped",
+      "rouge1": 0.0426,
+      "rouge2": 0.0,
+      "rougeL": 0.0426
+    },
+    {
+      "id": "sv8jRCmi3Ro_5",
+      "ref": "chop parsley",
+      "gen": "are you ready to roll the dough and roll it into a ball and roll it into a ball and roll it into a ball and put it into a bag and refrigerate it for up to 2 days until it gets ready to roll it up again and then refrigerate it for up to 2 days until it gets ready to serve in a hot pan and then serve with a layer of bread crumbs and a layer of sour cream and serve with a layer of bread crumbs and sour cream and top with",
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "id": "sv8jRCmi3Ro_6",
+      "ref": "remove the bulgur from the oven",
+      "gen": "arnish with a little water and shake the mixture to coat the noodles and keep aside for 20 minutes or until the water is gone.     add some soy sauce chili paste and stir to combine to combine again and keep aside for 20 minutes or until the water is gone and the noodles are cooked through and coated with the sauce and ready to serve garnish with sesame seeds and sesame seeds and green onions and serve with sour cream and chopped green onions and mayo and stir to serve",
+      "rouge1": 0.0417,
+      "rouge2": 0.0,
+      "rougeL": 0.0417
+    },
+    {
+      "id": "sv8jRCmi3Ro_7",
+      "ref": "add the sliced onions to the tomatoes in the oven",
+      "gen": "recover the cover with plastic wrap and seal the lid with plastic wrap and allow the water to evaporate from the wrapper and into the pan of boiling water and let it boil for five minutes until the water is gone from the bottom of the pan and the water boils off the top of the wrapper and leaves a little bubbles on the bottom of the pan of water and bubbles on the bottom of the pan of water and bubbles on the bottom of the pan of water and let it boil for five minutes until",
+      "rouge1": 0.0741,
+      "rouge2": 0.0,
+      "rougeL": 0.0741
+    },
+    {
+      "id": "sv8jRCmi3Ro_8",
+      "ref": "cook the bulgur in a pot of boiling water",
+      "gen": "reduce the heat to medium high and add the chicken pieces and shrimp pieces and cook until the shrimp is cooked through and translucent on both sides of the pieces.  add the chicken broth and stir until the chicken is combined with the chicken pieces and shrimp pieces and cook for 3-5 minutes until the chicken pieces are cooked through and the chicken pieces are golden brown on both sides of the pieces.  add the chicken broth and stir until the chicken is combined with the chicken pieces and shrimp pieces and cook",
+      "rouge1": 0.0583,
+      "rouge2": 0.0,
+      "rougeL": 0.0583
+    },
+    {
+      "id": "sv8jRCmi3Ro_9",
+      "ref": "remove tomatoes from the oven",
+      "gen": "op a sheet of cheese and roll into a ball and add the dough onto the sheet of cheese and roll into a circle about 1/2 inch thick and roll into a ball about 1 inch thick and roll into a ball about 1 inch thick and seal with an egg and press firmly to seal the edges of the circle and keep aside from the hot oil on a paper towel lined baking sheet and put them in a bowl of oil on medium heat until golden brown and then remove from heat and let cool down",
+      "rouge1": 0.0577,
+      "rouge2": 0.0196,
+      "rougeL": 0.0385
+    },
+    {
+      "id": "sv8jRCmi3Ro_10",
+      "ref": "combine bulgur chickpeas tomatoes parsley oil salt lemon in bowl",
+      "gen": "are the bread crumbs and the sauce on the bread slices and spread out evenly and cover with a layer of breadcrumbs and sprinkle some cheese on top of the bread slices and serve with a layer of sirloin cheese and a layer of breadcrumbs and serve with a layer of sirloin cheese and a layer of breadcrumbs and serve with a layer of breadcrumbs and a layer of cheese and serve with a layer of breadcrumbs and a layer of cheese and serve with",
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "id": "sv8jRCmi3Ro_11",
+      "ref": "transfer the ingredients to a plate",
+      "gen": "garlic salt and pepper to the pan and stir to combine the ingredients and cook until the mixture turns brown on both sides of the pan and turns golden brown on both sides of the edges of the pan.\nheat oil in a pan and fry the garlic in it until golden brown on both sides and turns translucent on both sides of the pan and turns translucent on both sides of the pan and turns translucent on both sides of the pan and turns translucent on both sides of the pan and turns translucent on both",
+      "rouge1": 0.0777,
+      "rouge2": 0.0198,
+      "rougeL": 0.0583
+    },
+    {
+      "id": "Odv6ltYAMw4_0",
+      "ref": "add chick peas to a food processor",
+      "gen": "coffee mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonnaise mayonna",
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "id": "Odv6ltYAMw4_1",
+      "ref": "squeeze the garlic paste into the food processor",
+      "gen": "aprika cumin seeds black pepper and salt in a bowl and mix well to combine ingredients in a separate bowl. add ground beef and stir to combine all the ingredients well to combine them and cook for 10-15 minutes or until the meat is golden brown on both sides of the meat and turns golden brown on both sides of the meat and brown on both sides of the meat and turns golden brown on both sides of the meat and turns brown on both sides of the meat and turns brown on both sides",
+      "rouge1": 0.0385,
+      "rouge2": 0.0,
+      "rougeL": 0.0385
+    },
+    {
+      "id": "Odv6ltYAMw4_2",
+      "ref": "add salt pepper and oil to a food processor",
+      "gen": "are the two halves of the cheese slices peeled and sliced into slices and grate them into the center of the meatballs and put on a plate and garnish with diced tomatoes and bacon chopped onions and roasted peanuts and cheddar cheese and serve with chopped green onion and cheese and chopped fresh parsley and sour cream on top of the bread crumbs and serve with a spoon of sour cream and sour cream on top of the cheese slices and serve with lettuce and tomato on the bread and sour cream on top of",
+      "rouge1": 0.0385,
+      "rouge2": 0.0,
+      "rougeL": 0.0385
+    },
+    {
+      "id": "Odv6ltYAMw4_3",
+      "ref": "blend the ingredients in the food processor",
+      "gen": "seal the bottom of the dough with flour and roll into a circle with the dough in it and seal with a towel to prevent them from rolling up when they are done rolling up and separating them from the other end of the dough in the process. \u00a0Transfer the dough to a bowl and seal with a paper towel to prevent rolling it up and separating them from the other end of the dough in the process. \u00a0Roll up the dough up and place it on a rolling pin and seal with",
+      "rouge1": 0.06,
+      "rouge2": 0.0204,
+      "rougeL": 0.06
+    },
+    {
+      "id": "im-aWyUQGrg_0",
+      "ref": "cook the egg in the wok",
+      "gen": "in a bowl mix chickpeas salt and pepper and olive oil and mix well to combine everything well and keep aside from the heat.",
+      "rouge1": 0.1333,
+      "rouge2": 0.0,
+      "rougeL": 0.1333
+    },
+    {
+      "id": "im-aWyUQGrg_1",
+      "ref": "add the onion bell pepper and bean sprout to the wok",
+      "gen": "nead the dough and cut into squares add oil and cover with a towel and let it sit for 15 minutes on a hot pan until it browns slightly brown on both sides of the sides and turns golden brown on both sides of the breadcrumbs and turns brown on both sides of the edges of the breadcrumbs on both sides of the edges of the breadcrumbs and edges of the breadcrumbs on both sides of the edges of the breadcrumbs and edges of the breadcrumbs",
+      "rouge1": 0.0825,
+      "rouge2": 0.0,
+      "rougeL": 0.0825
+    },
+    {
+      "id": "im-aWyUQGrg_2",
+      "ref": "add the bok choy to the wok",
+      "gen": "op the salad and add salt and pepper to the salad and mix well to serve with marinated tomatoes and chopped green onions on top of the salad and top with sour cream cheese and parmesan cheese and lettuce leaves on top of the salad and top with the dressing and dressing and top with the cheese and lettuce leaves and top with sour cream and tomato sauce and parsley and serve with lettuce leaves and sour cream and parmesan cheese and top with sour cream and sour cream and top with parmes",
+      "rouge1": 0.08,
+      "rouge2": 0.0204,
+      "rougeL": 0.08
+    },
+    {
+      "id": "im-aWyUQGrg_3",
+      "ref": "add the curry powder oyster sauce soy sauce and chili to the wok",
+      "gen": "circles and ribs cook in the oven until golden brown on the other side and add chopped green onions and garlic and cook for 10 min or until they are soft and translucent on both sides of the ribs and turn translucent on both sides on both sides of the ribs and brown on both sides on both sides on both sides of the meatloaf and brown on both sides of the edges on both sides of the meatloaf on both sides of the meatloaf and keep aside from the pan on",
+      "rouge1": 0.0762,
+      "rouge2": 0.0,
+      "rougeL": 0.0762
+    },
+    {
+      "id": "im-aWyUQGrg_4",
+      "ref": "add the chicken and shrimp to the wok",
+      "gen": "nead the dough in flour and add water and salt and flour to the dough and knead until smooth and knead the dough until it is smooth and not clumpy around the edges.  knead until the dough is nearly smooth and not too soft and not clumpy around the edges and the edges become soft and dough will form a ball when it is about halfway done rolling it out and flatten out into a ball about 8 inch long and about 1 inch thick.  add water and baking",
+      "rouge1": 0.1031,
+      "rouge2": 0.0211,
+      "rougeL": 0.0825
+    },
+    {
+      "id": "im-aWyUQGrg_5",
+      "ref": "add the spring onion and salt to the wok",
+      "gen": "seal the sides of the dough with flour and roll into a ball and cover with plastic wrap and refrigerate for 15 minutes or until firm and light brown on both sides.\n\ntrim off the edges of the dough and roll into a ball and fold in half into a ball and seal with plastic wrap and refrigerate for 1 hour or until firm and light brown on both sides.\n and fold in half into a ball and seal with plastic wrap and refrigerate for 1 hour or until light",
+      "rouge1": 0.0606,
+      "rouge2": 0.0,
+      "rougeL": 0.0606
+    },
+    {
+      "id": "im-aWyUQGrg_6",
+      "ref": "add the noodles to the wok",
+      "gen": "chop the cabbage and add it to the pot of water and boil for 30 minutes or until it turns brown and turns golden brown on the other side of the pot of water and turns brown again on the other side of the pot of water when it boils off the water and turns green on both sides of the pot of water and turns red on both sides of the pot of water when it boils off the pot of water and turns brown on both sides of the pot of water when it boils off the",
+      "rouge1": 0.0762,
+      "rouge2": 0.0194,
+      "rougeL": 0.0571
+    },
+    {
+      "id": "vLcBGs389k4_0",
+      "ref": "separate and cut the chicken wing at the two joints",
+      "gen": "end the process by adding in the flour and baking powder and baking soda and baking powder and baking powder and baking soda and stirring until the mixture is combined with the dough and softens and smooths out and the edges form a ball.\ncrack the dough into a ball and roll out into a ball and keep aside from the food processor and processor in a bowl until the dough is smooth and form a ball and light brown around the edges of the dough and the edges are smooth.\ncrack",
+      "rouge1": 0.0588,
+      "rouge2": 0.0,
+      "rougeL": 0.0588
+    },
+    {
+      "id": "vLcBGs389k4_1",
+      "ref": "dry the chicken with papertowel",
+      "gen": "rain the potatoes and add them to the water and let it boil for 15 minutes until the potatoes are soft and translucent and set in a pot with a lid on low heat for 3 minutes on each side until potatoes are cooked through and set in a plate with paper towel and paper towel in a warm place and then remove from heat and let it cook for 15 minutes on each side until potatoes are soft and translucent and set in a plate with paper towel and paper towel in a warm place and then remove from",
+      "rouge1": 0.0381,
+      "rouge2": 0.0,
+      "rougeL": 0.0381
+    },
+    {
+      "id": "vLcBGs389k4_2",
+      "ref": "place the wings into the pot of hot oil and cook until fried",
+      "gen": "in a bowl add butter and saran wrap and mix well to combine the ingredients and keep aside for 15-20 minutes or until the butter melts and then melts and turns brown on both sides of the bowl. Remove from heat and serve hot with chopped scallions and garnish with chopped parsley and sriracha sauce and green onion chopped scallions and sriracha sauce and serve with roasted peanuts and sour cream on the side of the bowl and garnish with chopped scallions and",
+      "rouge1": 0.1237,
+      "rouge2": 0.0,
+      "rougeL": 0.1031
+    },
+    {
+      "id": "vLcBGs389k4_3",
+      "ref": "add red sauce to a sauce pan and heat to a simmer",
+      "gen": "eliminate the potatoes and place them on a plate lined with paper towel and dry them in a hot pan with oil in a pan with oil until golden brown on both sides and edges of the potatoes and brown on both sides and edges of the plate with oil until golden brown on both sides and edges of the plate with oil on both sides and flip the plate over and cook for about 10 min in the pan until golden brown on both sides and edges of the pan and brown on both sides and edges",
+      "rouge1": 0.0727,
+      "rouge2": 0.0185,
+      "rougeL": 0.0545
+    },
+    {
+      "id": "vLcBGs389k4_4",
+      "ref": "when the sauce starts to simmer gradually stir in the butter",
+      "gen": "blend the butter and oil in a pot and cook the potatoes until golden brown on both sides of the pot and then add the potatoes and mash them well to combine everything well and cook for about 15-20 minutes on each side until they are soft and translucent on both sides of the pot and turn them off on both sides of the pot and then flip them over to coat them with oil and cook them for 15-20 minutes on each side until golden brown on both sides of the pot and then",
+      "rouge1": 0.0926,
+      "rouge2": 0.0189,
+      "rougeL": 0.0556
+    },
+    {
+      "id": "vLcBGs389k4_5",
+      "ref": "add the wings and sauce to a bowl and shake the bowl to coat the wings",
+      "gen": "eliminate the potatoes and place them in a bowl with oil and salt and stir together until the potatoes are soft and translucent and turn brown on both sides of the bowl and cook for 10-15 minutes on both sides until golden brown on both sides and turn golden brown on both sides of the bowl and cook for 15-20 minutes on both sides until the potatoes are soft and turn translucent on both sides and turn translucent on both sides of the bowl and cook for 20-25 minutes on both sides",
+      "rouge1": 0.1441,
+      "rouge2": 0.055,
+      "rougeL": 0.1441
+    },
+    {
+      "id": "D7K6_0gtpHQ_0",
+      "ref": "chopped onions and garlic and place in the pot",
+      "gen": "end the process and add the noodles to the pot and stir until the noodles are soft and translucent and then flip and add the noodles and stir until the noodles are coated in water and the water boils off easily remove from the pot and rinse well to remove water from the pan and keep it in the fridge for 15-20 minutes or until it is done ready to serve and serve hot with hot sauce and garnish with chopped red onion and sriracha sauce and chopped cilantro and serve with chopped green",
+      "rouge1": 0.1346,
+      "rouge2": 0.0588,
+      "rougeL": 0.0962
+    },
+    {
+      "id": "D7K6_0gtpHQ_1",
+      "ref": "add lemon juice white wine and the mussels to the pot",
+      "gen": "el an egg in a pan and fry until golden brown on both sides and flip over the egg in the pan to serve with cream cheese and bread crumbs on the bread and bread crumbs on the sandwich and serve with bread crumbs and bread crumbs on the bread and cheese on the sandwich and top with cheese and bacon on the sandwich and top with cheese and bacon on the sandwich and top with chicken wings and sour cream on the sandwich and top with cheese and bread crumbs on the sandwich and",
+      "rouge1": 0.0755,
+      "rouge2": 0.0,
+      "rougeL": 0.0755
+    },
+    {
+      "id": "D7K6_0gtpHQ_2",
+      "ref": "cover the lid",
+      "gen": "are you ready to add cheese to the bowl and mix with the ingredients and let it cook for about 15 minutes until the cheese is melted and the mixture thickens a bit more. then add some butter and mix again and let it cook for another 15 minutes until the mixture thickens again and the mixture gets browned on both sides of the pan and gets browned on both sides of the pan and turns brown on both sides of the pan and turns brown on both sides of the pan and turns brown",
+      "rouge1": 0.0204,
+      "rouge2": 0.0,
+      "rougeL": 0.0204
+    },
+    {
+      "id": "D7K6_0gtpHQ_3",
+      "ref": "take the mussels out and pour some cream into the pot",
+      "gen": "seal the dressing and wash hands and serve with some lettuce leaves on top of the salad and sprinkle some tomato on top of the salad and top with some cheese and a squeeze of lemon juice to serve with some water and serve with some lettuce leaves and some chopped green onions on top of the salad and top with some chives and some salt and pepper on top of the salad and top with some lettuce leaves and some chopped onions and some shredded cheese and some cheddar cheese and some red pepper flakes to",
+      "rouge1": 0.0741,
+      "rouge2": 0.0,
+      "rougeL": 0.0741
+    },
+    {
+      "id": "D7K6_0gtpHQ_4",
+      "ref": "chop some fresh parsley",
+      "gen": "1 cup of chickpeas chopped finely diced shallots finely chopped green onions chopped shallots and minced garlic finely chopped green onions finely chopped green onions finely chopped red pepper and mix well to combine to coat the chicken breast and breast and keep aside from the grill and cook for 15 minutes on each side until golden brown and crisp on both sides of the chicken breast and flip it over when cooked through on both sides for about 15 minutes until golden brown on both sides of the chicken breast and the edges are golden",
+      "rouge1": 0.02,
+      "rouge2": 0.0,
+      "rougeL": 0.02
+    },
+    {
+      "id": "D7K6_0gtpHQ_5",
+      "ref": "pour the cooked milk mixture and the parsley on top of the mussels",
+      "gen": "nead the dough and cut into squares add a layer of panko bread crumbs and bake in an oven for 55 minutes or until golden brown on both sides and edges brown on both sides of the bread crumbs on both sides of the bread crumbs and edges brown on both sides of the bread crumbs and edges brown on both sides of the bread crumbs and edges brown on both sides of the bread crumbs and edges brown on both sides of the bread crumbs and edges brown on",
+      "rouge1": 0.1165,
+      "rouge2": 0.0198,
+      "rougeL": 0.1165
+    },
+    {
+      "id": "LeCwqp8Bic8_0",
+      "ref": "add onions tomatoes and water to a pressure cooker and cook",
+      "gen": "age the chicken and cook until golden brown on both sides and then flip the chicken over and cook for 6 minutes on each side until golden brown and crisp on both sides and then flip the chicken over and cook for 8 minutes on each side until golden brown and crisp on both sides and then flip the chicken over and cook for 1 hour until golden brown and crisp on both sides and then flip the chicken over and cook for 1 hour until golden brown and crisp on both sides and then flip the chicken over and",
+      "rouge1": 0.0541,
+      "rouge2": 0.0183,
+      "rougeL": 0.0541
+    },
+    {
+      "id": "LeCwqp8Bic8_1",
+      "ref": "add the onion and tomato to a blender and blend",
+      "gen": "op the dough in the flour and add the butter and salt and pepper and mix again until smooth and light brown on the other side of the dough. transfer the dough to a bowl and roll it into a ball with a rolling pin and seal it with a saran wrap and serve with bread crumbs and parmesan cheese on top of the bread crumbs and bread crumbs and serve with bread crumbs and cheese on the bread pieces and bread crumbs and bread crumbs and serve with bread",
+      "rouge1": 0.12,
+      "rouge2": 0.0408,
+      "rougeL": 0.12
+    },
+    {
+      "id": "LeCwqp8Bic8_2",
+      "ref": "add oil cumin seeds ginger garlic paste garam masala coriander powder chili powder and turmeric powder to a pan",
+      "gen": "almond milk yogurt and cream cheese and mix it well and season with salt and pepper and place on a plate and garnish with grated cheese and sour cream and serve with pita bread and fried onions on top of the bread and lettuce on the bread and top of the sandwich and serve with sliced parmesan cheese and sour cream and lettuce on the bread and lettuce on the bread and top of the sandwich and serve with grilled cheese and sour cream on the bread and lettuce on the bread and lettuce",
+      "rouge1": 0.0354,
+      "rouge2": 0.0,
+      "rougeL": 0.0354
+    },
+    {
+      "id": "LeCwqp8Bic8_3",
+      "ref": "add the tomato and onion paste to the pan",
+      "gen": "melt butter in a pan and add onions and garlic and stir fry until translucent and brown on both sides of the pan. Add the fried onions and fry until translucent and brown on both sides of the pan and flip over and add the chicken wings and stir fry until golden brown and crispy on both sides of the pan and golden brown on both sides of the pan and edges turn brown on both sides of the pan and cook for 2-3 minutes on both sides of the pan until golden brown on both",
+      "rouge1": 0.1132,
+      "rouge2": 0.0385,
+      "rougeL": 0.0943
+    },
+    {
+      "id": "LeCwqp8Bic8_4",
+      "ref": "add the cooked chickpeas to the pan",
+      "gen": "spice it up and add some lemon juice and mix again to serve with some butter and pepper and serve with some bread crumbs and some bread crumbs and some bread crumbs and some cheese and serve with some chopped parsley and some cheese and some chopped green onions and some chopped parsley and some bread crumbs and some chopped walnuts and some chopped peanuts and some chopped peanuts and some chopped peanuts and some chopped peanuts and some chopped peanuts and some chopped peanuts and some chopped peanuts and some chopped",
+      "rouge1": 0.0404,
+      "rouge2": 0.0,
+      "rougeL": 0.0404
+    },
+    {
+      "id": "LeCwqp8Bic8_5",
+      "ref": "add dried fenugreek leaves to the pan",
+      "gen": "op up the garlic and onions and mix with the chopped tomatoes and paprika in a bowl and put on a plate with paper towels to dry it and serve hot with bread crumbs and lettuce leaves on it and toast with hot sauce and lettuce on it and on top of the bread with sesame oil and sour cream on it and serve with mashed potatoes and lettuce on it and on top of the bread with sesame oil and sour cream on it and on top of the bread with sesame oil and",
+      "rouge1": 0.0588,
+      "rouge2": 0.0,
+      "rougeL": 0.0392
+    },
+    {
+      "id": "LeCwqp8Bic8_6",
+      "ref": "add sweetened condensed milk to the pan",
+      "gen": "rain the dal and add the soup to the pot and stir it to combine the ingredients together in the bowl and cook the dal in the oven for 3 minutes on each side until the dal is golden brown on both sides and the top is golden brown on both sides and the bottom is golden brown on both sides and the bottom is golden brown on both sides and the top is golden brown on both sides and the bottom is golden brown on both sides and the bottom is golden brown on both sides",
+      "rouge1": 0.0577,
+      "rouge2": 0.0196,
+      "rougeL": 0.0577
+    },
+    {
+      "id": "LeCwqp8Bic8_7",
+      "ref": "garnish with coriander leaves and lime juice",
+      "gen": "ideal tomato paste and add salt and pepper to the bowl and mix it well to combine it all up and keep aside from the bowl and garnish with chopped tomatoes and lettuce leaves and serve with cilantro and sour cream and sour cream on top of the bread crumbs and sour cream on top of the bread crumbs and sour cream and bread crumbs and serve with bread crumbs and sour cream and shredded cheese on the top of the bread crumbs and bread crumbs and serve with sour cream",
+      "rouge1": 0.0816,
+      "rouge2": 0.0417,
+      "rougeL": 0.0816
+    },
+    {
+      "id": "xhXcJ6bhX2w_0",
+      "ref": "add water salt and oil to pan to boil and add macaroni",
+      "gen": "nead the dough and add oil to the pan and stir to combine the ingredients together and knead dough again until the dough is smooth and ball-like with a hand mixer on medium high speed until light golden brown on both sides of the sides of the dough and edges are golden brown on both sides of the dough and edges are brown on both sides of the edges of the dough and edges are brown on both sides of the dough and edges are golden brown on both sides of the dough and edges are",
+      "rouge1": 0.1284,
+      "rouge2": 0.0374,
+      "rougeL": 0.1101
+    },
+    {
+      "id": "xhXcJ6bhX2w_1",
+      "ref": "stir while cooking pasta and drain",
+      "gen": "elize the potatoes and drain the water from them and add a little oil to a pan with oil and stir it until the potatoes are soft and shiny add some water and let it simmer for about 15 minutes stirring it and then add some salt and pepper and let it simmer for another 15 minutes stirring it and then add some pepper and stir it again until the potatoes are soft and shiny add some milk and let it simmer for about 10 minutes until the potatoes are soft and shiny add some chopped green onions and",
+      "rouge1": 0.0571,
+      "rouge2": 0.0194,
+      "rougeL": 0.0381
+    },
+    {
+      "id": "xhXcJ6bhX2w_2",
+      "ref": "transfer macaroni to a pan and then add butter and mix well",
+      "gen": "alachne pepper and stir fry the dough in a pan with oil until golden brown on both sides and edges of the pan and turn halfway up the heat level and then flip the dough around halfway around on the other side and press the edges together on both sides to seal the edges and cut into small pieces.\n\ntrim off the oil and add flour and baking soda and mix together with a fork to mix the ingredients and then add the dough and continue to knead it until it is light",
+      "rouge1": 0.1524,
+      "rouge2": 0.0971,
+      "rougeL": 0.1333
+    },
+    {
+      "id": "xhXcJ6bhX2w_3",
+      "ref": "incorporate evaporated milk and mix it",
+      "gen": "seal the pan with flour and oil and fry the bread in a pan with oil until golden brown and crisp on both sides of the bread slices and halfway through flipping the bread slices slightly on both sides of the bread slices to serve with cream cheese and bread crumbs on both sides of the bread slices and sprinkle with worcestershire sauce on top of the bread slices and serve with lettuce leaves and sour cream on the bread slices and garnish with chopped green onions and some chopped bacon on the bread",
+      "rouge1": 0.02,
+      "rouge2": 0.0,
+      "rougeL": 0.02
+    },
+    {
+      "id": "xhXcJ6bhX2w_4",
+      "ref": "incorporate salt and pepper mix it and add beaten eggs and stir",
+      "gen": "4 ounces of pork stock diced and chopped into pieces and whisk the mixture together with hand whisk and pour the mixture into a bowl and whisk it together with hand whisk and stir it again with a whisk and keep aside until the pork is well coated and thickened and it is well coated with flour and cooked through and cooked through again with a whisk until it is browned and cooked through again with a whisk until it is soft and then brown on both sides and cooked through again with a whisk until it is",
+      "rouge1": 0.0909,
+      "rouge2": 0.0185,
+      "rougeL": 0.0727
+    },
+    {
+      "id": "xhXcJ6bhX2w_5",
+      "ref": "add the six cheeses and mix well",
+      "gen": "eliminate the cabbage and add to the bowl with the chopped shallots and red bell peppers and mix with the other ingredients in a food processor and process until smooth and add the cabbage mixture into a bowl and process it until smooth and coat it with the other ingredients in the food processor and process it again until the cabbage mixture is combined in the food processor and process it again until it is done smooth and add the chopped shallots and red bell peppers and process it again until smooth and coat it with",
+      "rouge1": 0.0777,
+      "rouge2": 0.0396,
+      "rougeL": 0.0777
+    },
+    {
+      "id": "xhXcJ6bhX2w_6",
+      "ref": "place the pan in the oven and cook for 15 minutes",
+      "gen": "alice and ginger garlic to a pan of hot oil and fry them in it until golden brown in color and then remove from heat and fry them in it for about 15 minutes in it until golden brown in color and then remove from the pan and drain on paper towel and cut into pieces and cut into little pieces and fry them in it until golden brown in color and then remove from heat and fry them in it for about 20 minutes in it until golden brown in color and then remove from the pan and",
+      "rouge1": 0.1455,
+      "rouge2": 0.037,
+      "rougeL": 0.1091
+    },
+    {
+      "id": "xhXcJ6bhX2w_7",
+      "ref": "after cooking mix well to incorporate cheese and then bake",
+      "gen": "end the mixture and add the sauce and the chicken and the salad to the pan and mix it again and stir until everything is combined well and the chicken is coated in the mixture and the chicken is cooked through again and ready to serve on a plate and garnish with some lettuce leaves and parmesan cheese and serve with some chopped green onions and a little red bell pepper flakes and some mayo on top of the chicken and serve with some chopped green onions and a little mayo and a little may",
+      "rouge1": 0.1143,
+      "rouge2": 0.0194,
+      "rougeL": 0.0952
+    },
+    {
+      "id": "OWtnI3m-p8g_0",
+      "ref": "crush the garlic mash with salt and chop",
+      "gen": "all the ingredients in a bowl and mix well to combine the ingredients and serve hot and cold with lettuce leaves and tomato sauce on top of the hot dog bun and fried onions on the bun and on the bun and serve with lettuce leaves and crispy bacon on the bun and on the bun and on the bun and on the bun and on the bun and on the bun and on the bun and on the bun and on the bun and on the bun and on the bun and on the bun and on the bun",
+      "rouge1": 0.0556,
+      "rouge2": 0.0,
+      "rougeL": 0.0556
+    },
+    {
+      "id": "OWtnI3m-p8g_1",
+      "ref": "add mayonniase garlic and pepper to a bowl",
+      "gen": "neat the chicken with flour baking powder salt and pepper and stir to combine all ingredients well and cook for about 3 minutes until golden brown on both sides of the chicken and golden brown on both sides of the chicken and brown on both sides of the chicken and brown on both sides of the chicken and brown on both sides of the chicken and brown on both sides of the chicken and brown on both sides of the chicken and brown on both sides of the chicken and brown on both sides of the chicken and brown",
+      "rouge1": 0.0561,
+      "rouge2": 0.019,
+      "rougeL": 0.0561
+    },
+    {
+      "id": "OWtnI3m-p8g_2",
+      "ref": "add lemon juice and cheese to the dressing and mix",
+      "gen": "cover the pot and cook for 5-6 minutes until the oil starts to thicken and the vegetables are translucent and translucent again. Remove from the heat and cook for 15-20 minutes until the pot turns golden brown and the potatoes are soft and translucent again. Remove from heat and let cool for 15 minutes until the potatoes are ready to serve and the sauce thickens and browns slightly on both sides of the pot and flip the pot over to serve with sirloin slices and chopped tomatoes on top",
+      "rouge1": 0.0792,
+      "rouge2": 0.0,
+      "rougeL": 0.0792
+    },
+    {
+      "id": "OWtnI3m-p8g_3",
+      "ref": "squeeze lemon juice into the dressing and mix",
+      "gen": "ip the pizza into the bowl and add the chopped onions and chopped celery and stir fry for 15-20 seconds until golden brown on both sides and edges flip and cook for about 20 minutes until the pizza is done flipping and flipping again on both sides and flipping again until the pizza is golden brown on both sides and edges and flip and cook for about 15 minutes until the pizza is done flipping and flipping again on both sides and flipping again on both sides and flipping again until the pizza is done flipping and",
+      "rouge1": 0.0566,
+      "rouge2": 0.0192,
+      "rougeL": 0.0566
+    },
+    {
+      "id": "OWtnI3m-p8g_4",
+      "ref": "cut up the bread into chunks and add to a pan",
+      "gen": "nead the dough add water and dough is ready to roll into a ball and cover with a towel and allow it to rest for 15 minutes or until the water boils off the surface of the dough and bubbles up and browns on both sides of the edges of the ball of dough and turns brown on both sides of the edges of the ball of dough again and turns brown on both sides of the ball of dough again and turns brown on both sides of the ball of dough again and turns brown on both",
+      "rouge1": 0.1284,
+      "rouge2": 0.0,
+      "rougeL": 0.0734
+    },
+    {
+      "id": "OWtnI3m-p8g_5",
+      "ref": "add butter pepper salt and garlic to the pan",
+      "gen": "rain the pasta and add water to the pot and stir until the pasta is browned and turns golden brown on both sides. add parsley and cook for 10 minutes until the parsley turns brown on both sides of the pasta and turns golden brown on both sides of the pasta and turns brown on both sides of the pasta and turns brown on both sides of the pasta and turns brown on both sides of the pasta and turns brown on both sides of the pasta and turns brown on both sides of the pasta",
+      "rouge1": 0.0762,
+      "rouge2": 0.0194,
+      "rougeL": 0.0571
+    },
+    {
+      "id": "OWtnI3m-p8g_6",
+      "ref": "cut up the bell peppers",
+      "gen": "heat the oven to 425 degrees farenheit and place the shells on a plate lined with parchment paper and serve with some cheese and some sliced bread on the bread and top with some chopped green onions and some cheese and some chopped tomatoes and serve with some cheese and some chopped lettuce on top of the bread and top with some chopped cheddar and some cheese and some shredded cheese and some chopped green onions and some chopped lettuce and some chopped tomatoes and some chopped cheddar and some chopped bacon and some chopped bacon",
+      "rouge1": 0.0198,
+      "rouge2": 0.0,
+      "rougeL": 0.0198
+    },
+    {
+      "id": "OWtnI3m-p8g_7",
+      "ref": "add the peppers to the pan",
+      "gen": "ice a piece of bread in a pan add butter and oil add chopped onions and cook for 15-20 minutes until they are soft and translucent add salt and pepper and cook for 3-5 minutes on each side until they are soft and translucent add chopped garlic and cook for 15-20 minutes until they are soft and translucent add some parsley and cook for 15-20 minutes until the garlic is soft and translucent add some olive oil and cook for 2-3 minutes on each side until the bread is",
+      "rouge1": 0.1,
+      "rouge2": 0.0,
+      "rougeL": 0.06
+    },
+    {
+      "id": "OWtnI3m-p8g_8",
+      "ref": "rip the lettuce into pieces and add to the bowl",
+      "gen": "eliminate the potatoes from the oil and place them in a bowl of water and shake it to remove the seeds and remove the seeds from the water mixture and place them on a plate lined with paper towel and dry them under running water for 30 minutes to let them soak in the water for 30 minutes until the potatoes are soft and translucent and remove from the water process and remove from the oil and drain onto a paper towel and let them drain on a towel lined with paper towel and set on a plate",
+      "rouge1": 0.0926,
+      "rouge2": 0.0,
+      "rougeL": 0.0741
+    },
+    {
+      "id": "OWtnI3m-p8g_9",
+      "ref": "cut up the tomatos and add them to the salad",
+      "gen": "seal the patty with salt and pepper and serve hot with butter and bread crumbs and serve with sauce and bread crumbs on the bread slices and serve with sour cream on the bread slices and garnish with cheese and sour cream on the bread pieces and top with a little mayo and sour cream and sriracha sauce on the bread pieces and top with some chopped peanuts and chives on top of the bread pieces and serve with some chopped lettuce and green onions and chopped onions on the bread",
+      "rouge1": 0.0594,
+      "rouge2": 0.0,
+      "rougeL": 0.0594
+    },
+    {
+      "id": "OWtnI3m-p8g_10",
+      "ref": "chop up the basal and add them to the salad",
+      "gen": "nead the dough and roll into balls and roll out into a ball about 1 inch thick and shape into a ball about 8 inch thick and roll out into a ball about 1 inch wide and 1 inch thick about the size of a small grapefruit.  add flour and roll out into a ball about 3 inch wide and cover with plastic wrap and let rest on a towel to dry on it for 15 minutes or until it is golden brown on both sides and turns golden brown on both sides of the edges",
+      "rouge1": 0.0943,
+      "rouge2": 0.0,
+      "rougeL": 0.0943
+    },
+    {
+      "id": "OWtnI3m-p8g_11",
+      "ref": "add pepper and dressing to the salad and toss",
+      "gen": "eliminate the seeds and chop them into small pieces and place them in a bowl of water and cook them until golden brown and crisp on both sides on both sides of the pan and edges brown on both sides of the pan on both sides of the bread flip them over and serve with lettuce leaves on both sides of the bread and garnish with chopped onions and sour cream on top of the bread and a drizzle some sour cream on top and top with cheese on the bread and lettuce on top and",
+      "rouge1": 0.0571,
+      "rouge2": 0.0,
+      "rougeL": 0.0571
+    },
+    {
+      "id": "OWtnI3m-p8g_12",
+      "ref": "add dollops of dressing croutons and peppers on top",
+      "gen": "eliminate the seeds and remove from the pan and place them in the pan with the butter and oil and stir fry the onions and garlic until golden brown and translucent in the pan and add the sausages and cook for 15-20 minutes or until the onions are translucent and translucent again in the pan and turn them on high heat and flip them to cook for about 5 minutes or until the onions are soft and translucent in the pan and then turn them on low heat and flip them to cook for",
+      "rouge1": 0.0577,
+      "rouge2": 0.0,
+      "rougeL": 0.0577
+    },
+    {
+      "id": "OWtnI3m-p8g_13",
+      "ref": "sprinkle cheese and pepper on top",
+      "gen": "nead the dough and cut into squares add flour and knead the dough until smooth and hand fold in the center of a ball and form into a ball about 1 inch thick and keep aside from other side of the dough and add the flour mixture and dough crumbs and water and knead on both sides until the dough is kneaded and become smooth and dough comes together well with hand kneading and keep aside from the food processor and processor for about 15 minutes until the dough is smooth and",
+      "rouge1": 0.0408,
+      "rouge2": 0.0,
+      "rougeL": 0.0408
+    },
+    {
+      "id": "MCtF5tRCRUk_0",
+      "ref": "whisk the eggs and place the bowl over a pan of water",
+      "gen": "elbows and rings are ready to serve garnish with sauce and serve with chopped onions and chopped scallions on top of the pizza crust and serve with sour cream on top of the pizza crust and serve with bread crumbs on top of the pizza crust and top with chopped lettuce on top of the pizza crust and top with sour cream and cheese on top of the pizza crust and top with sour cream and cheese on top of the pizza crust and serve with chopped scallions and green onion on top",
+      "rouge1": 0.0762,
+      "rouge2": 0.0,
+      "rougeL": 0.0762
+    },
+    {
+      "id": "MCtF5tRCRUk_1",
+      "ref": "stir butter into the eggs",
+      "gen": "alumin seeds and green chilis in a bowl and mix them well until the seeds are combined and the seeds are translucent in the pan of water and cook them for 1 hour in a pan with oil in a pan with oil in a pan with oil in a medium heat for 8 minutes or until they are golden brown in color in the pan and translucent in the pan of water and then crisp in the pan with a fork to remove from the pan and serve with the filling on top of the filling",
+      "rouge1": 0.0196,
+      "rouge2": 0.0,
+      "rougeL": 0.0196
+    },
+    {
+      "id": "MCtF5tRCRUk_2",
+      "ref": "squeeze lemon juice into the sauce",
+      "gen": "nead the dough with flour and flour and add the water and mix again to incorporate the dough and seal the dough and keep it from breaking down into pieces when kneading again and kneading again until light and shiny on both sides of the dough again and knead on both sides until the edges are well coated on both sides of the dough and the dough is about 8 inch in diameter and 3 inch in thickness on both sides of the sides of the bread crumbs and 3 inch in thickness",
+      "rouge1": 0.0404,
+      "rouge2": 0.0,
+      "rougeL": 0.0404
+    },
+    {
+      "id": "MCtF5tRCRUk_3",
+      "ref": "add salt to the sauce and mix",
+      "gen": "op a piece of bread cut into slices and add to the bread slices and mix again and add parsley leaves and cook until it is soft add in a bowl and serve with chopped bread and salad garnish with chopped parsley and grated cheese and serve with a slice of sourdough bread and sourdough bread lettuce and green onions on top and with chopped onions and some bread crumbs on the bread pieces and serve with sourdough bread and sourdough bread and sourdough bread",
+      "rouge1": 0.1087,
+      "rouge2": 0.0444,
+      "rougeL": 0.1087
+    },
+    {
+      "id": "MCtF5tRCRUk_4",
+      "ref": "add vinegar and salt to the pot of water",
+      "gen": "eliminate the potatoes from the pan and add the sauce and the potatoes to it and cook for about 20-25 minutes until they are done browning and crisp slightly on both sides of the potatoes. 3 minutes later remove from heat and let them cook for 2-3 minutes until the potatoes are done browning slightly and flipping slightly on both sides of the pan and flipping slightly on both sides of the breadcrumbs on both sides of the breadcrumbs and flipping them around on both sides of",
+      "rouge1": 0.102,
+      "rouge2": 0.0,
+      "rougeL": 0.102
+    },
+    {
+      "id": "MCtF5tRCRUk_5",
+      "ref": "crack an egg into a cup and then drop the egg into the water",
+      "gen": "nead the dough in half and add half a cup of flour and knead the dough until it is smooth and dough is a ball about 3/4 inch thick and about 1/4 inch thick.",
+      "rouge1": 0.2,
+      "rouge2": 0.0417,
+      "rougeL": 0.16
+    },
+    {
+      "id": "MCtF5tRCRUk_6",
+      "ref": "layer ham on the english muffins",
+      "gen": "eliminate the potatoes and place them on a baking sheet lined with parchment paper.     add a little oil and cook them until golden brown on both sides and turn slightly brown on both sides of the sides of the breadcrumbs on both sides of the edges of the breadcrumbs on both sides of the edges of the breadcrumbs and set aside on a plate lined with aluminum foil and refrigerate for about 15 minutes or until they are ready to cook on both sides of the",
+      "rouge1": 0.0435,
+      "rouge2": 0.0,
+      "rougeL": 0.0435
+    },
+    {
+      "id": "MCtF5tRCRUk_7",
+      "ref": "place the poached egg on the layer of ham",
+      "gen": "nead the dough and add water to it and keep it in the oven for 8-10 minutes or until the dough is done rolling out and soft and shiny and crisp on the edges of the breadcrumbs.\n\nchop the dough into thin slices and roll into thin balls and place them on a plate lined with parchment paper to serve hot with mozzerella cheese and maple syrup on top of them and top with some of the chicken wings and a layer of sour cream and maple syrup and",
+      "rouge1": 0.1212,
+      "rouge2": 0.0412,
+      "rougeL": 0.101
+    },
+    {
+      "id": "MCtF5tRCRUk_8",
+      "ref": "pour the sauce on top of the egg",
+      "gen": "are the salmon shells ready to fry in a pan with oil and brown sugar and cook until golden brown on both sides and flip it over when it is done flipping it over again flipping it over when it is done flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it over again flipping it",
+      "rouge1": 0.037,
+      "rouge2": 0.0,
+      "rougeL": 0.037
+    },
+    {
+      "id": "MCtF5tRCRUk_9",
+      "ref": "top with chopped chives",
+      "gen": "reheat oven to 350 f degree f degree and cook some chicken in the pan and add some butter and some salt and pepper to it and mix it well until everything is well combined and smooth and crispy on both sides of the chicken and brown on both sides of the chicken.",
+      "rouge1": 0.0,
+      "rouge2": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "id": "_GTwKEPmB-U_0",
+      "ref": "grate squeeze and add potato to a bowl",
+      "gen": "spice the egg in the pan and add salt and pepper and mix well until smooth and keep aside from heat and let it simmer for 15 minutes or until the eggs are cooked through and the edges brown slightly brown on both sides of the pan. flip the pan and add some water and cook until the water bubbles around the edges of the pan and bubbles form a ball and cook for 5-6 minutes until the edges are golden brown and the edges are golden brown on both sides of the pan. keep",
+      "rouge1": 0.0577,
+      "rouge2": 0.0196,
+      "rougeL": 0.0577
+    },
+    {
+      "id": "_GTwKEPmB-U_1",
+      "ref": "add flour to the potatoes and mix",
+      "gen": "chop the cabbage and cut into pieces and remove the seeds from the pot and rinse off the water when done.  add the water and the top bun and top with some more chopped cucumber and some lettuce and top with some more chopped green onions and cilantro and serve with some sour cream and sour cream and sour cream and a little lime juice and some salt and pepper and serve with some chopped green onion and some chopped lettuce and some cilantro and some cilantro and some chopped parsley and",
+      "rouge1": 0.0606,
+      "rouge2": 0.0,
+      "rougeL": 0.0606
+    },
+    {
+      "id": "_GTwKEPmB-U_2",
+      "ref": "mix an egg milk and the mashed potatoes",
+      "gen": "coffee and nuts in a bowl and stir together until the mixture thickens and the nuts become light brown on both sides and brown on both sides of the bowl and edges brown on both sides of the bowl and edges brown on both sides of the bowl and edges brown on both sides of the bowl and edges brown on both sides of the bowl and edges brown on both sides of the bowl and edges brown on both sides of the bowl and edges brown on both sides of the bowl and edges brown on both",
+      "rouge1": 0.0377,
+      "rouge2": 0.0192,
+      "rougeL": 0.0377
+    },
+    {
+      "id": "_GTwKEPmB-U_3",
+      "ref": "add the potato starch salt and pepper",
+      "gen": "are the noodles in a bowl and add boiling water and cover with a lid and cook for about 20 minutes or until the water is gone and the noodles are soft and translucent when cooked through again. Remove from the pot and chop the pieces to pieces and serve with sauce and chopped chives on top of them and garnish with chopped onions and green onions and stir to combine them up again and serve with chopped chives and lettuce on top of them and stir to combine them again and serve with green onion",
+      "rouge1": 0.0583,
+      "rouge2": 0.0,
+      "rougeL": 0.0583
+    },
+    {
+      "id": "_GTwKEPmB-U_4",
+      "ref": "add the grated potatoes to the mixture and blend",
+      "gen": "ry the chicken in the oil in a pan with butter and oil in the middle and then add the dal and fry in it for 15 minutes in a pan with oil in the pan and flipping it for 15 minutes in a pan with oil in the pan and flipping again for 15 minutes in a pan with oil in the pan and flipping again for 15 minutes in a pan with oil in the pan and flipping again for 15 minutes in a pan with oil in the pan and flipping again for 15 minutes in",
+      "rouge1": 0.0741,
+      "rouge2": 0.0189,
+      "rougeL": 0.0741
+    },
+    {
+      "id": "_GTwKEPmB-U_5",
+      "ref": "scoop the batter on the pan",
+      "gen": "1 cup of olive oil 1 tbsp of butter 1 tsp of pepper 2 tsp of garlic powder 1 tsp of salt and stir until smooth and add to the wok and stir it to combine everything well and then add in the shrimp and green onions and cook for 5 min on low heat until golden brown and remove from heat and set aside until done add the shrimp and fry for 15 mins on medium heat until it turns golden brown and crisp add the shrimp and cook for 3 min on medium heat until golden brown",
+      "rouge1": 0.0571,
+      "rouge2": 0.0,
+      "rougeL": 0.0571
+    },
+    {
+      "id": "yTPJ_u_qxDU_0",
+      "ref": "add soy sauce sugar rice wine chopped white onion honey and fish sauce in a blender",
+      "gen": "numbers and cut the potatoes into thin slices and add to the pan of hot oil and fry them until golden brown and crispy on both sides then flip them over and cook in a pan until golden brown on both sides flipping them over and flipping them over again until golden brown on both sides then remove from pan and let them brown on both sides then place them on a paper towel to dry them and then cut them into thin slices and add to the pan of oil and fry them until golden brown on both",
+      "rouge1": 0.0696,
+      "rouge2": 0.0177,
+      "rougeL": 0.0696
+    },
+    {
+      "id": "yTPJ_u_qxDU_1",
+      "ref": "add minced ginger korean chili paste and fresh asian pear dices to the blender too",
+      "gen": "a little oil in a pan add some chili powder coriander powder cumin powder coriander powder coriander powder cayenne pepper and cook for 15 minutes or until the chili powder starts to become dark green and slightly fragrant add some garram masala and cook for 2 minutes or until the chili flakes are gone and the cumin seeds become translucent add some chopped onions and cook for 15 minutes or until the onions are translucent add some chopped garlic and cook for 15 minutes or until the",
+      "rouge1": 0.098,
+      "rouge2": 0.0,
+      "rougeL": 0.098
+    },
+    {
+      "id": "yTPJ_u_qxDU_2",
+      "ref": "blend everything in the blender to form a sauce",
+      "gen": "crisps and beans are boiled and chopped into cubes and finely chopped into cubes and add to the pot and stir to mix together the ingredients well and cook for 15 minutes until the peas are cooked through and the beans are cooked through and the beans are cooked through again and the broth is well blended again and the soup is ready to serve and season with more salt and pepper and serve with chopped green onions and bay leaves and more basil leaves to serve with more parsley and cilantro leaves and garnish",
+      "rouge1": 0.0577,
+      "rouge2": 0.0,
+      "rougeL": 0.0577
+    },
+    {
+      "id": "yTPJ_u_qxDU_3",
+      "ref": "marinate the ribs well with the prepared sauce in a bucket overnight",
+      "gen": "melt butter in a pan and add chopped onion and garlic and cook for 10-15 seconds until translucent and translucent on both sides of the pan and translucent on both sides of the bread slices and then brown on both sides of the bread slices and then brown on both sides of the bread slices on both sides of the bread slices and then flip over and toast on both sides of the bread slices on both sides of the bread slices and then flip over and toast on both sides of the bread slices and then",
+      "rouge1": 0.0727,
+      "rouge2": 0.0185,
+      "rougeL": 0.0364
+    },
+    {
+      "id": "yTPJ_u_qxDU_4",
+      "ref": "grill the marinated ribs well and serve with chopped leeks and red onions",
+      "gen": "ash the potatoes and put them in a pot of water and cook until golden brown and crisp on both sides of the potatoes and potatoes are crisp and brown on both sides of the potatoes and potatoes are golden brown and crisp on both sides of the potatoes and potatoes are cooked for 2 minutes on both sides of the potatoes and potatoes are cooked for 3 minutes on both sides of the potatoes and potatoes are cooked for 2 minutes on both sides of the potatoes and potatoes are cooked for 3 minutes on both sides of the",
+      "rouge1": 0.0531,
+      "rouge2": 0.0,
+      "rougeL": 0.0531
+    },
+    {
+      "id": "05ZSU-5UkXw_0",
+      "ref": "combine mint garlic sumac to a bowl with lemon juice and olive oil",
+      "gen": "out the dough and roll out the edges to a circle with a rolling pin and cut the dough into squares to serve with chopped onions and pepperoni cheese and serve with the filling filling and pepperoni and breadcrumbs on the bottom bun and sourdough breadcrumbs and sourdough breadcrumbs and top with sourdough breadcrumbs and sourdough breadcrumbs and top with cheddar cheese and sourdough breadcrumbs and sourdough breadcrumbs and serve with",
+      "rouge1": 0.0952,
+      "rouge2": 0.0244,
+      "rougeL": 0.0952
+    },
+    {
+      "id": "05ZSU-5UkXw_1",
+      "ref": "add tomatoes cucumbers chickpeas green onions and feta to a plate with lettuce",
+      "gen": "2 tbsp of hot sauce 1 tsp of worcestershire sauce 1 tbsp of worcestershire sauce and 1 tbsp of worcestershire sauce and whisk everything together until everything is combined and smooth and lighten up the sauce and whisk it all the way around until everything is combined again and the sauce thickens and the sauce thickens up again and coat it with a little bit of the sauce and cook for about 20 minutes on both sides flipping it over and flipping it over again when done well",
+      "rouge1": 0.0594,
+      "rouge2": 0.0,
+      "rougeL": 0.0396
+    },
+    {
+      "id": "05ZSU-5UkXw_2",
+      "ref": "pour dressing on top of the salad and toss",
+      "gen": "eliminate the skin of the chicken breast and add a little bit of oil to it and stir fry for about 15 minutes until golden brown and crispy on both sides of the breast meat.  Remove the skin and let it cook for 15 minutes until golden brown on both sides of the meat and then flip over and let it cook for about 15 minutes until golden brown on both sides of the meat and then flip over and let it cook for about 15 minutes until golden brown on both sides of the meat",
+      "rouge1": 0.0762,
+      "rouge2": 0.0194,
+      "rougeL": 0.0762
+    },
+    {
+      "id": "oYLrSflCI2g_0",
+      "ref": "add flour oil and salt in a bowl and mix",
+      "gen": "ice the butter in a pan and then add the onion and carrot celery and carrots and cook for 10 min and then flip over and cook for another 10 min until the carrots are soft and translucent on both sides of the pan and brown on both sides of the pan and then flip over and cook for another 10 min until the carrots are soft and translucent on both sides of the pan and then flip over and cook for another 10 min until the carrots are soft and translucent on both sides of the pan and",
+      "rouge1": 0.0917,
+      "rouge2": 0.0187,
+      "rougeL": 0.055
+    },
+    {
+      "id": "oYLrSflCI2g_1",
+      "ref": "pour water into the bowl while mixing",
+      "gen": "nead the dough and roll into a ball and place into a ball of dough in a row and roll into a ball of dough in a row and roll into a ball of flour and flour and shape into a circle and seal the edges with a dough towel and transfer onto a baking sheet and set aside on a plate lined with parchment paper and cut into squares and keep aside until the edges are browned and shiny on both sides of the dough and then flip over and cut into square pieces and seal them",
+      "rouge1": 0.0381,
+      "rouge2": 0.0,
+      "rougeL": 0.0381
+    }
+  ]
+}
