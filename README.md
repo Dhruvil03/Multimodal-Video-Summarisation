@@ -2,7 +2,7 @@
 
 > An end-to-end single-sequence model that watches a video, listens to its audio, fuses both over time using a Conformer encoder, and generates a concise text summary.
 
-**Stack:** PyTorch · CLIP ViT-L/14 · Wav2Vec2 · Conformer · GPT-2 · YouCook2
+**Stack:** PyTorch · CLIP ViT-L/14 · Wav2Vec2 · Conformer · GPT-2 · React · Flask · HuggingFace Transformers · YouCook2
 
 ---
 
@@ -17,6 +17,7 @@
 - [Training](#training)
 - [Evaluation & Inference](#evaluation--inference)
 - [Results](#results)
+- [Full Stack Setup](#full-stack-setup)
 - [Key Design Decisions](#key-design-decisions)
 - [Troubleshooting](#troubleshooting)
 - [Cluster Quick Reference](#cluster-quick-reference)
@@ -324,6 +325,90 @@ Output:
 | ROUGE-L | 0.0635 |
 
 Evaluated on 94 samples from the YouCook2 val split after 7 epochs of training. Scores are limited by the small training set (~2,500 samples) and limited epochs. State-of-the-art on YouCook2 achieves ROUGE-L ~0.35–0.45, trained on orders of magnitude more data.
+
+---
+
+## Full Stack Setup 
+
+## File Structure
+
+```
+mul_Vid_Summ/
+├── app.py              ← Flask backend
+├── frontend/
+│   ├── src/
+│   │   └── App.jsx     ← React frontend
+│   ├── package.json
+│   └── vite.config.js
+├── uploads/            ← auto-created
+├── results/            ← auto-created
+└── checkpoints/
+    └── best.pt
+```
+
+---
+
+## Backend Setup (Flask)
+
+```bash
+pip install flask flask-cors
+
+# Run from mul_Vid_Summ/
+python app.py
+# Runs on http://localhost:5000
+```
+
+---
+
+## Frontend Setup (React + Vite)
+
+```bash
+npm create vite@latest frontend -- --template react
+cd frontend
+
+# Replace src/App.jsx with the provided App.jsx
+# Then install and run:
+npm install
+npm run dev
+# Runs on http://localhost:5173
+```
+
+---
+
+## Usage
+
+1. Make sure `./checkpoints/best.pt` exists (trained model)
+2. Start Flask:  `python app.py`
+3. Start React:  `cd frontend && npm run dev`
+4. Open:         `http://localhost:5173`
+
+---
+
+## API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | `/api/summarise/upload` | Upload video file |
+| POST | `/api/summarise/youtube` | YouTube URL |
+| GET | `/api/status/<job_id>` | Poll job status |
+| GET | `/api/frames/<filename>` | Get frame image |
+| GET | `/api/health` | Health check |
+
+---
+
+## Resume Addition
+
+Add to your tech stack line:
+
+**PyTorch, CLIP, Wav2Vec2, Conformer, GPT-2, React, Flask, HuggingFace Transformers**
+
+Add one bullet point:
+
+```
+Deployed model as a full-stack web application using React and Flask,
+supporting both video file upload and YouTube URL input with real-time
+progress tracking and key frame visualisation.
+```
 
 ---
 
