@@ -396,22 +396,6 @@ npm run dev
 
 ---
 
-## Resume Addition
-
-Add to your tech stack line:
-
-**PyTorch, CLIP, Wav2Vec2, Conformer, GPT-2, React, Flask, HuggingFace Transformers**
-
-Add one bullet point:
-
-```
-Deployed model as a full-stack web application using React and Flask,
-supporting both video file upload and YouTube URL input with real-time
-progress tracking and key frame visualisation.
-```
-
----
-
 ## Key Design Decisions
 
 ### Why Conformer?
